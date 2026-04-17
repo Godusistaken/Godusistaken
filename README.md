@@ -14,11 +14,10 @@ Building things with C, Java & AI tools
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
 ---
-
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Godusistaken&show_icons=true&theme=tokyonight&hide_border=true&card_width=400)
-![Streak](https://streak-stats.demolab.com?user=Godusistaken&theme=tokyonight&hide_border=true&card_width=400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Godusistaken&layout=compact&theme=tokyonight&hide_border=true&card_width=400)
 
 </div>
 ---
