@@ -2,8 +2,7 @@
 
 ## Hi there, I'm Gökhan 👋
 
-**Computer Engineering student @ Pamukkale University**  
-Building things with C, Java & AI tools
+**Computer Engineering student @ Pamukkale University** Building things with C, Java & AI tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
@@ -14,19 +13,20 @@ Building things with C, Java & AI tools
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
 ---
+
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Godusistaken&show_icons=true&theme=tokyonight&hide_border=true&card_width=400)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Godusistaken&layout=compact&theme=tokyonight&hide_border=true&card_width=500)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Godusistaken&show_icons=true&theme=tokyonight&hide_border=true" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Godusistaken&layout=compact&theme=tokyonight&hide_border=true" height="195" />
 </div>
+
 ---
 
 ### 🚀 Featured Projects
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| [StudyTracker](https://github.com/Godusistaken) | Flask · SQLite · Bootstrap | Pomodoro + task tracker — CS50 Final |
-| [Snake & Flappy Bird](https://github.com/Godusistaken) | C · Raylib | Game dev with low-level graphics |
+| [StudyTracker](https://github.com/Godusistaken/StudyTracker) | Flask · SQLite · Bootstrap | Pomodoro + task tracker — CS50 Final |
+| [Snake Game](https://github.com/Godusistaken/YilanOyunu) | C · Raylib | Game dev with low-level graphics |
+| [Crypto Signal App](https://github.com/Godusistaken/cryptosignalapp) | Node.js · React Native · AI | AI-powered mobile crypto tracker & analyzer |
 
 </div>
