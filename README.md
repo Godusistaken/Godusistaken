@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi there, I'm Gökhan 👋
+## Hi there, I'm Gökhan 
 
 **Computer Engineering student @ Pamukkale University**<br>
 Building things with C, Java & AI tools
@@ -10,7 +10,6 @@ Building things with C, Java & AI tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EF5E29?style=flat-square&logo=n8n&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
 ---
