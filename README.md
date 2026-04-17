@@ -15,9 +15,10 @@ Building things with C, Java & AI tools
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Godusistaken&show_icons=true&theme=tokyonight&hide_border=true" height="195" />&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Godusistaken&layout=compact&theme=tokyonight&hide_border=true" height="195" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Godusistaken&show_icons=true&theme=tokyonight&hide_border=true" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Godusistaken&theme=tokyonight&hide_border=true" height="195" />
+</p>
 
 ---
 
