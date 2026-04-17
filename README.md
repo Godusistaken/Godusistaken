@@ -16,7 +16,7 @@ Building things with C, Java & AI tools
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Godusistaken&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Godusistaken&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Godusistaken&layout=donut&theme=tokyonight&hide_border=true)
 
 ![Streak](https://streak-stats.demolab.com?user=Godusistaken&theme=tokyonight&hide_border=true)
 
