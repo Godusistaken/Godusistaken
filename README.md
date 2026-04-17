@@ -17,7 +17,7 @@ Building things with C, Java & AI tools
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Godusistaken&show_icons=true&theme=tokyonight&hide_border=true&card_width=400)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Godusistaken&layout=compact&theme=tokyonight&hide_border=true&card_width=400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Godusistaken&layout=compact&theme=tokyonight&hide_border=true&card_width=500)
 
 </div>
 ---
