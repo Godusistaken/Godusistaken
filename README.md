@@ -15,11 +15,12 @@ Building things with C, Java & AI tools
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Godusistaken&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Godusistaken&layout=donut&theme=tokyonight&hide_border=true)
+<div align="center">
 
-![Streak](https://streak-stats.demolab.com?user=Godusistaken&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Godusistaken&show_icons=true&theme=tokyonight&hide_border=true&card_width=400)
+![Streak](https://streak-stats.demolab.com?user=Godusistaken&theme=tokyonight&hide_border=true&card_width=400)
 
+</div>
 ---
 
 ### 🚀 Featured Projects
