@@ -26,7 +26,7 @@ Building things with C, Java & AI tools
 | Project | Stack | Description |
 |---------|-------|-------------|
 | [StudyTracker](https://github.com/Godusistaken/StudyTracker) | Flask · SQLite · Bootstrap | Pomodoro + task tracker — CS50 Final |
-| [Snake & Flappy Bird](https://github.com/Godusistaken) | C · Raylib | Game dev with low-level graphics |
+| [Snake](https://github.com/Godusistaken) | C · Raylib | Game dev with low-level graphics |
 | [Crypto Signal App](https://github.com/Godusistaken/cryptosignalapp) | Node.js · React Native · AI | AI-powered mobile crypto tracker & analyzer |
 
 </div>
